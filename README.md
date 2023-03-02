@@ -1,4 +1,4 @@
-# proyectopronosticos
+# Proyecto de pronósticos
 En este repositorio hay 4 codigos de métodos de pronóstico para series de tiempo
 
 * Método de Brown
